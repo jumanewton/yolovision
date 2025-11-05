@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+numpy
+opencv-python
+Pillow
+matplotlib
+pandas
+torch
+torchvision
+ultralytics
+seaborn
+tqdm
